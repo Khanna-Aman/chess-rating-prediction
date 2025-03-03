@@ -1,6 +1,6 @@
 # Chess Rating Prediction - Lichess
 
-This project predicts chess ratings using historical data from the Lichess website. The model is designed to handle various rating formats such as **Bullet**, **Blitz**, **Classical**, and more. It fetches rating data through the **Lichess API**, processes it, and predicts a player's future rating based on their past performance.
+This project predicts chess ratings using historical data from the **Lichess** website. The model is designed to handle various rating formats such as **Bullet, Blitz, Classical,** and more. It fetches rating data through the **Lichess API,** processes it, and predicts a player's future rating based on their past performance.
 
 ## Project Description
 
@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook that uses the **Lichess API** to fet
 
 ## Files
 
-- **Lichess_Rating_Projection.ipynb**: The main Jupyter Notebook where the data is analyzed, processed, and the prediction model is built.
+- **Lichess_Rating_Projection.ipynb:** The main Jupyter Notebook where the data is analyzed, processed, and the prediction model is built.
 - Rating data CSV files: The project works with CSV files containing rating data fetched from the Lichess API. These files can contain data for any game format (e.g., Bullet, Blitz, Classical, etc.).
 
 ## Installation
