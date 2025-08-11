@@ -77,7 +77,7 @@ Current rating: 2689
 Predicted rating in 6 months: 2841.83
 Predicted rating in 1 year: 2977.22
 
-Estimated date to reach 2800 rating: 15-04-2025
+Estimated date to reach 2800 rating: 15-11-2025
 ```
 
 ## Technical Details
